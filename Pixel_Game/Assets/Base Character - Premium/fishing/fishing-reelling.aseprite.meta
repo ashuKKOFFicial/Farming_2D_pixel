@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 67edd0cfbc093f74db6b25d60b65f5de
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fishing-reelling_Frame_18
+    originalName: 
+    pivot: {x: 0.4615384, y: -1.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 222
+      width: 13
+      height: 25
+    spriteID: 26202108a402f1b4b964f09ca14f37a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 222}
+  - name: fishing-reelling_Frame_19
+    originalName: 
+    pivot: {x: 0.42857137, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 4
+      width: 14
+      height: 22
+    spriteID: 495955e2c7a3f334ca7a73140a4176e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 4}
+  - name: fishing-reelling_Frame_20
+    originalName: 
+    pivot: {x: 0.42857137, y: -1.5714285}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 64
+      width: 14
+      height: 21
+    spriteID: 46faf7287960e1043b9cb0fd584b8101
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 64}
+  - name: fishing-reelling_Frame_21
+    originalName: 
+    pivot: {x: 0.42857137, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 34
+      width: 14
+      height: 22
+    spriteID: cd77213b69976f849b67c77aa4a547f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 34}
+  - name: fishing-reelling_Frame_22
+    originalName: 
+    pivot: {x: 0.4615384, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 216
+      width: 13
+      height: 22
+    spriteID: 2b6d324575dfc0e4390661ddd94c1062
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 216}
+  - name: fishing-reelling_Frame_23
+    originalName: 
+    pivot: {x: 0.4615384, y: -1.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 184
+      width: 13
+      height: 24
+    spriteID: 07efcbc703e936b4cac8d2dc26211550
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 184}
+  - name: fishing-reelling_Frame_0
+    originalName: 
+    pivot: {x: 0.18181816, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 196
+      width: 33
+      height: 24
+    spriteID: 8d724f66cadaa984bbb1a163ec33b98a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 196}
+  - name: fishing-reelling_Frame_1
+    originalName: 
+    pivot: {x: 0.20588237, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 68
+      width: 34
+      height: 24
+    spriteID: cb7cc256b7e98674f9c2fb8bc4ae373b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 68}
+  - name: fishing-reelling_Frame_2
+    originalName: 
+    pivot: {x: 0.22857143, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 35
+      height: 24
+    spriteID: c0edc48c556e7944ba0ef8e18201daf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: fishing-reelling_Frame_3
+    originalName: 
+    pivot: {x: 0.20588237, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 100
+      width: 34
+      height: 24
+    spriteID: 5d8df304ea06dc14c9537096317b9780
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 100}
+  - name: fishing-reelling_Frame_4
+    originalName: 
+    pivot: {x: 0.18181816, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 228
+      width: 33
+      height: 24
+    spriteID: 8aba943c70cab3445983f86cf1ce1419
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 228}
+  - name: fishing-reelling_Frame_5
+    originalName: 
+    pivot: {x: 0.12903228, y: -0.99999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 68
+      width: 31
+      height: 23
+    spriteID: 6833f1e8c7f701444999238b5e34ac19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 68}
+  - name: fishing-reelling_Frame_6
+    originalName: 
+    pivot: {x: 0.7878788, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 4
+      width: 33
+      height: 24
+    spriteID: 2e189eaf1b777ca49abba33a5e9ac6c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 4}
+  - name: fishing-reelling_Frame_7
+    originalName: 
+    pivot: {x: 0.7647059, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 132
+      width: 34
+      height: 24
+    spriteID: 97dda2ad855915e49a5386f177e43925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 132}
+  - name: fishing-reelling_Frame_8
+    originalName: 
+    pivot: {x: 0.74285716, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 36
+      width: 35
+      height: 24
+    spriteID: ba07393deee245946941c45edb8bf8d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 36}
+  - name: fishing-reelling_Frame_9
+    originalName: 
+    pivot: {x: 0.7647059, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 164
+      width: 34
+      height: 24
+    spriteID: a5d3b714ea230094fa9d906b212d878d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 164}
+  - name: fishing-reelling_Frame_10
+    originalName: 
+    pivot: {x: 0.7878788, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 36
+      width: 33
+      height: 24
+    spriteID: 5393b93a77a10ef489daa787ff6b6944
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 36}
+  - name: fishing-reelling_Frame_11
+    originalName: 
+    pivot: {x: 0.8387096, y: -0.99999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 99
+      width: 31
+      height: 23
+    spriteID: fa0be97ed6acd3845bb9b5e47c474b42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 99}
+  - name: fishing-reelling_Frame_12
+    originalName: 
+    pivot: {x: 0.4615384, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 130
+      width: 13
+      height: 38
+    spriteID: 9b5c21cd4f3e4524fa79050919c17d89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 130}
+  - name: fishing-reelling_Frame_13
+    originalName: 
+    pivot: {x: 0.4615384, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 176
+      width: 13
+      height: 38
+    spriteID: 11c85105cb7bd8e4d98c2f951f00fe06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 176}
+  - name: fishing-reelling_Frame_14
+    originalName: 
+    pivot: {x: 0.4615384, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 4
+      width: 13
+      height: 38
+    spriteID: e46633ff342effa41978baeaaaa9d590
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 4}
+  - name: fishing-reelling_Frame_15
+    originalName: 
+    pivot: {x: 0.4615384, y: -0.27027026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 50
+      width: 13
+      height: 37
+    spriteID: 656ea868b75840145b87ce47f6f7db28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 50}
+  - name: fishing-reelling_Frame_16
+    originalName: 
+    pivot: {x: 0.4615384, y: -0.27027026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 95
+      width: 13
+      height: 37
+    spriteID: c06b27b194ccb614781a955a0a22fa3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 95}
+  - name: fishing-reelling_Frame_17
+    originalName: 
+    pivot: {x: 0.4615384, y: -0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 140
+      width: 13
+      height: 36
+    spriteID: f727ed9d1d54a5f418658eae28e7c7e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 140}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1006133263
+    name: fishing-reelling
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fishing-reelling_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 33
+        width: 13
+        height: 25
+      spriteId: 26202108a402f1b4b964f09ca14f37a3
+    - name: fishing-reelling_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 33
+        width: 14
+        height: 22
+      spriteId: 495955e2c7a3f334ca7a73140a4176e7
+    - name: fishing-reelling_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 33
+        width: 14
+        height: 21
+      spriteId: 46faf7287960e1043b9cb0fd584b8101
+    - name: fishing-reelling_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 33
+        width: 14
+        height: 22
+      spriteId: cd77213b69976f849b67c77aa4a547f7
+    - name: fishing-reelling_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 33
+        width: 13
+        height: 22
+      spriteId: 2b6d324575dfc0e4390661ddd94c1062
+    - name: fishing-reelling_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 33
+        width: 13
+        height: 24
+      spriteId: 07efcbc703e936b4cac8d2dc26211550
+    - name: fishing-reelling_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 23
+        width: 33
+        height: 24
+      spriteId: 8d724f66cadaa984bbb1a163ec33b98a
+    - name: fishing-reelling_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 23
+        width: 34
+        height: 24
+      spriteId: cb7cc256b7e98674f9c2fb8bc4ae373b
+    - name: fishing-reelling_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 32
+        y: 23
+        width: 35
+        height: 24
+      spriteId: c0edc48c556e7944ba0ef8e18201daf2
+    - name: fishing-reelling_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 23
+        width: 34
+        height: 24
+      spriteId: 5d8df304ea06dc14c9537096317b9780
+    - name: fishing-reelling_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 23
+        width: 33
+        height: 24
+      spriteId: 8aba943c70cab3445983f86cf1ce1419
+    - name: fishing-reelling_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 23
+        width: 31
+        height: 23
+      spriteId: 6833f1e8c7f701444999238b5e34ac19
+    - name: fishing-reelling_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 23
+        width: 33
+        height: 24
+      spriteId: 2e189eaf1b777ca49abba33a5e9ac6c4
+    - name: fishing-reelling_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 23
+        width: 34
+        height: 24
+      spriteId: 97dda2ad855915e49a5386f177e43925
+    - name: fishing-reelling_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 23
+        width: 35
+        height: 24
+      spriteId: ba07393deee245946941c45edb8bf8d9
+    - name: fishing-reelling_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 23
+        width: 34
+        height: 24
+      spriteId: a5d3b714ea230094fa9d906b212d878d
+    - name: fishing-reelling_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 23
+        width: 33
+        height: 24
+      spriteId: 5393b93a77a10ef489daa787ff6b6944
+    - name: fishing-reelling_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 23
+        width: 31
+        height: 23
+      spriteId: fa0be97ed6acd3845bb9b5e47c474b42
+    - name: fishing-reelling_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 10
+        width: 13
+        height: 38
+      spriteId: 9b5c21cd4f3e4524fa79050919c17d89
+    - name: fishing-reelling_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 10
+        width: 13
+        height: 38
+      spriteId: 11c85105cb7bd8e4d98c2f951f00fe06
+    - name: fishing-reelling_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 10
+        width: 13
+        height: 38
+      spriteId: e46633ff342effa41978baeaaaa9d590
+    - name: fishing-reelling_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 10
+        width: 13
+        height: 37
+      spriteId: 656ea868b75840145b87ce47f6f7db28
+    - name: fishing-reelling_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 10
+        width: 13
+        height: 37
+      spriteId: c06b27b194ccb614781a955a0a22fa3a
+    - name: fishing-reelling_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 10
+        width: 13
+        height: 36
+      spriteId: f727ed9d1d54a5f418658eae28e7c7e1
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}
